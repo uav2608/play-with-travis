@@ -1,9 +1,5 @@
 notifications:
-    slack: otus-web:bZKcDpic2XKfT0Erp1pXY4Aa
-
-#language: python
-#python:
-#  - "3.4"
-#  - "3.5"
-
-#script: python -m unittest
+  slack: otus-web:bZKcDpic2XKfT0Erp1pXY4Aa
+notification:
+  slack:
+    secure: MsE77LGUxCS6EbcgeWgL8WlQebN0VuPyvova/mqM9+rT9MJO2umpOurOhl1u9RblpSmWHWfkS9gUg+ciOdip3oKiWx61QtotoBpiv811yOYDvdjYaA/mmZV9WMTvMLZrPNIwJ6YkZ0F2zzSEMWbF1tx5cHm64qNbgecN6mnfetQnbAD9O1AdGfkRGR6Z68o2UDd4y1i271WsN/PYlePf7f7VKsgd6u9ja50W+/6SDoFPEXi8+kc6C4BxFI8lj0lI/AZtA/G5qvNQDs8tznRgggFmN5mu5IswfGsaCrILhI/z8rll13uaZNYaaSQLgu+CP4RN9YtqJLan0b4qX/iDd5Ymi/ixT1pDlBVRPyGl3JGzV1/sA56yfdcM45mr2FMGUobcKaBTlpERVOOISu5lBG5xBr8PJYmkDdFYxk88vVo+dQ8o+7NLoaQJRm7zDq9N3R/0kyVNAWv0wQNSKFmz/tS36d4399IHEODyzWAn1QoyVVwe8C/9cE/nT8HxA3jmnTyA/z4M2/JhB45r2SL+3csU38rs4TaZ+JQwp6l5uDiD61ifCdTECTxv2dr1iALBfVbcq+ssrgf/v6UfEJ8DhjGz03prTl5A6Dvh69I2pgTg2KfediKHfL8NaOj+4IbEWzT1e7WXpnbIRMzMKzx6RnkKLbeI+5KTB+pBtXyxNgk=
