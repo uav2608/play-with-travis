@@ -1,6 +1,9 @@
-language: python
-python:
-  - "3.4"
-  - "3.5"
+notifications:
+    slack: otus-web:bZKcDpic2XKfT0Erp1pXY4Aa
 
-script: python -m unittest
+#language: python
+#python:
+#  - "3.4"
+#  - "3.5"
+
+#script: python -m unittest
